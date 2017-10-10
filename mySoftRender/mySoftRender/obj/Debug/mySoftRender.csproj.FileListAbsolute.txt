@@ -1,0 +1,14 @@
+F:\Project\mySoftRender\mySoftRender\mySoftRender\bin\Debug\mySoftRender.exe.config
+F:\Project\mySoftRender\mySoftRender\mySoftRender\bin\Debug\mySoftRender.exe
+F:\Project\mySoftRender\mySoftRender\mySoftRender\bin\Debug\mySoftRender.pdb
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\mySoftRender.csprojResolveAssemblyReference.cache
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\MainWindow.g.cs
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\App.g.cs
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\mySoftRender_MarkupCompile.cache
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\mySoftRender_MarkupCompile.lref
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\MainWindow.baml
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\mySoftRender.g.resources
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\mySoftRender.Properties.Resources.resources
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\mySoftRender.csproj.GenerateResource.Cache
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\mySoftRender.exe
+F:\Project\mySoftRender\mySoftRender\mySoftRender\obj\Debug\mySoftRender.pdb
